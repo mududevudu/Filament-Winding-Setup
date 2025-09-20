@@ -6,7 +6,7 @@ A desktop filament winding machine designed in **CAD** for manufacturing composi
 
 ---
 
-##CAD Model of the Filament Winder
+## CAD Model of the Filament Winder
 <img width="832" height="823" alt="image" src="https://github.com/user-attachments/assets/a640cd48-7eaf-4adb-a4ef-f114a1a7ee5f" />
 
 
@@ -39,14 +39,14 @@ The machine was developed following a systematic engineering design process: und
 ### Mechanical Design
 A key design feature is the **linearly moving resin bath**, which travels along a stationary **rotating mandrel**. This approach enhances the precision of the winding pattern. The resin bath contains a series of rods to maintain proper fiber tension and ensure thorough impregnation with the heated epoxy. All parts were modeled in SolidWorks to ensure proper fit and function before manufacturing.
 
-##2D Manufacturing Drawing
+## 2D Manufacturing Drawing
 <img width="881" height="649" alt="image" src="https://github.com/user-attachments/assets/d4b4ef35-1611-4113-9117-f6089f01d528" />
 
 
 ### Electronic Control System
 The automation is achieved using a simple yet robust mechatronic system. An **Arduino Uno** acts as the microcontroller, sending signals to an **LN298N Motor Driver** which powers the **Linear Actuator** responsible for the resin bath's precise horizontal movement.
 
-##Circuit Diagram
+## Circuit Diagram
 <img width="547" height="398" alt="image" src="https://github.com/user-attachments/assets/5114cdc0-982c-4118-83f5-4dd3f26d9c57" />
 
 
